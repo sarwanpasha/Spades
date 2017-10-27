@@ -9,7 +9,7 @@
    				<h3>Services</h3>
    			   <h1>What We Do.</h1>
    			
-   			   <p class="lead">Lorem ipsum Elit ut consequat veniam eu nulla nulla reprehenderit reprehenderit sit velit in cupidatat ex aliquip ut cupidatat Excepteur tempor id irure sed dolore sint sunt voluptate ullamco nulla qui Duis qui culpa voluptate enim ea aute qui veniam in irure et nisi nostrud deserunt est officia minim.</p>
+   			   <p class="lead">We organize these events. Find the detail below</p>
    			
    	   </div> <!-- end col-full -->
    	</div> <!-- end row -->
@@ -20,12 +20,12 @@
 
 	      	<div class="bgrid service-item animate-this">	
 
-	      		<span class="icon"><i class="icon-paint-brush"></i></span>            
+	      		<span class="icon"><i class="icon-star"></i></span>            
 
 	            <div class="service-content">
-	            	<h3 class="h05">Branding</h3>
+	            	<h3 class="h05">PSIFI Science Olympiad</h3>
 
-		            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+		            <p>It is the single biggest science Olympiad in Pakistan in which attracts audience from all sorts of background and schools. Featuring a myriad of events testing your skills and knack for teamwork, get ready to compete in a very scientifically nurtured environment.
 	         		</p>	         		
 	         	</div> 	         	 
 
@@ -33,12 +33,12 @@
 
 				<div class="bgrid service-item animate-this">	
 
-					<span class="icon"><i class="icon-earth"></i></span>                          
+					<span class="icon"><i class="icon-factory"></i></span>                          
 
 	            <div class="service-content">	
-	            	<h3 class="h05">Web Design</h3>  
+	            	<h3 class="h05">Startup Weekend</h3>  
 
-		            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+		            <p>We host the most popular and well structured entrepreneurial event of Pakistan, powered by Google that caters innovative, game changing ideas.
 	         		</p>	         		
 	            </div>	                          
 
@@ -46,12 +46,12 @@
 
 			   <div class="bgrid service-item animate-this">
 
-			   	<span class="icon"><i class="icon-lego-block"></i></span>		            
+			   	<span class="icon"><i class="icon-paper-plane"></i></span>		            
 
 	            <div class="service-content">
-	            	<h3 class="h05">Web Development</h3>
+	            	<h3 class="h05">Space Observatory</h3>
 
-		            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+		            <p> The Spades team recently launched its Space Observatory that lets you wander through the lens and look up to the ever lit sky. IF you've ever dreamed of glazing at the Milky Way and counting stars, then Spades Observatory is the spot to sneak in.
 	        			</p>
 	            </div> 	            	               
 
@@ -59,12 +59,12 @@
 
 				<div class="bgrid service-item animate-this">
 
-					<span class="icon"><i class="icon-megaphone"></i></span>	              
+					<span class="icon"><i class="icon-car"></i></span>	              
 
 	            <div class="service-content">
-	            	<h3 class="h05">Marketing</h3>
+	            	<h3 class="h05">Amazing Race</h3>
 
-		            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+		            <p>Amazing Race, one of its kind, a hunting showdown across the campus where you discover clues and try to win.
 	         		</p>	         		
 	            </div>                
 

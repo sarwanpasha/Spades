@@ -41,9 +41,7 @@ require_once './views/top.php';
 
    <!-- portfolio
    ================================================== -->
-         <?php
-   require_once './views/section4.php';
-   ?>
+ 
   <!-- end portfolio -->
 
 
@@ -57,10 +55,11 @@ require_once './views/top.php';
 
 	<!-- stats
    ================================================== -->
+         <!-- require_once './views/section6.php';
          <?php
-   require_once './views/section6.php';
+   
    ?>
-
+-->
         <!-- end clients -->
 
 

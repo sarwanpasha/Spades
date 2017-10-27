@@ -14,7 +14,7 @@
 				  			</h1>	
 
 				  			<div class="more animate-intro">
-                                                            <a href="registration_form/registration_form.php" target="_blank" class="button stroke">
+                                                            <a href="https://www.cognitoforms.com/SPADES2/PsiFiIXRegistration" target="_blank" class="button stroke">
 				  					Register Now!
 				  				</a>
 				  			</div>							
@@ -28,18 +28,7 @@
 	      <li class="animate-intro">
                   <a href="https://www.facebook.com/LUMS.SPADES/" target="_blank"><i class="fa fa-facebook-square"></i></a>
 	      </li>
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-twitter"></i></a>
-	      </li>
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-instagram"></i></a>
-	      </li>
-         <li class="animate-intro">
-           	<a href="#"><i class="fa fa-behance"></i></a>
-         </li>
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-dribbble"></i></a>
-	      </li>	      
+	      
 	   </ul> <!-- end home-social-list -->	
 
 		<div class="scrolldown">

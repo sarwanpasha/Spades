@@ -1,52 +1,127 @@
    <header> 
 
    	<div class="header-logo">
-	      <a href="index.html">Infinity</a>
+	      <a href="index.php">Spades</a>
 	   </div> 
 
-		<a id="header-menu-trigger" href="#0">
-		 	<span class="header-menu-text">Menu</span>
-		  	<span class="header-menu-icon"></span>
-		</a> 
+<div class="nav">
+      <ul>
+        <li class="home"><a href="#">Home</a></li>
+        <li class="tutorials"><a href="#about">About Us</a></li>
+        <li class="about"><a href="#services">Events</a></li>
+        <li class="contact"><a href="PSIFI/index.html">PSIFI</a>
+        <ul>
+            <li><a href="PSIFI/#explore">About Event</a></li>
+            <li><a href="PSIFI/#event2">Academic Events</a></li>
+            <li><a href="PSIFI/#home">Social Events</a></li>
+          </ul>
+          </li>
+        <li class="contact"><a href="PSIFI/index.html">PSIFI Registration</a>
+                <ul>
+            <li><a href="PSIFI/pdf/registration_guidelines.pdf" target="_blank">Registration Details</a></li>
+            <li><a href="PSIFI/pdf/waiver.pdf" target="_blank">Waiver of Liability</a></li>
+            <li><a href="PSIFI/pdf/payment.pdf" target="_blank">Payment Calculation</a></li>
+            <li><a href="PSIFI/pdf/evalform.pdf" target="_blank">Evaluation Form</a></li>
+            <li><a href="PSIFI/pdf/institute.pdf" target="_blank">Institute Consent</a></li>
+          </ul>
+        </li>
+        <li class="contact"><a href="#contact">Contact Us</a></li>
+      </ul>
+    </div>
 
-		<nav id="menu-nav-wrap">
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  background: #ccc;
+}
 
-			<a href="#0" class="close-button" title="close"><span>Close</span></a>	
+.nav ul {
+  list-style: none;
+  background-color: transparent;
+  text-align: right;
+  padding: 0;
+  margin: 0;
+	margin-right: 40px;
+}
 
-	   	<h3>Infinity.</h3>  
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  margin-top: 29px;
+  text-align: left;
+}
 
-			<ul class="nav-list">
-				<li class="current"><a class="smoothscroll" href="#home" title="">Home</a></li>
-				<li><a class="smoothscroll" href="#about" title="">About</a></li>
-				<li><a class="smoothscroll" href="#services" title="">Services</a></li>
-				<li><a class="smoothscroll" href="#portfolio" title="">Works</a></li>
-				<li><a class="smoothscroll" href="#contact" title="">Contact</a></li>						
-			</ul>	
+.nav a {
+  text-decoration: none;
+  color: white;
+  display: block;
+	font-size: 0.6em;
+  padding-left: 15px;
+  border-bottom: 1px solid #888;
+  transition: .3s background-color;
+}
 
-			<p class="sponsor-text">
-				Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">DreamHost</a>.
-				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
-				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->
-			</p>			
+.nav a:hover {
+  background-color: #005f5f;
+}
 
-			<ul class="header-social-list">
-	         <li>
-	         	<a href="#"><i class="fa fa-facebook-square"></i></a>
-	         </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-twitter"></i></a>
-	         </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-instagram"></i></a>
-	         </li>
-            <li>
-            	<a href="#"><i class="fa fa-behance"></i></a>
-            </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-dribbble"></i></a>
-	         </li>	         
-	      </ul>		
+.nav a.active {
+  background-color: #aaa;
+  color: #444;
+  cursor: default;
+}
 
-		</nav>  <!-- end #menu-nav-wrap -->
+/* Sub Menus */
+.nav li li {
+  font-size: .8em;
+}
 
+/*******************************************
+   Style menu for larger screens
+
+   Using 650px (130px each * 5 items), but ems
+   or other values could be used depending on other factors
+********************************************/
+
+@media screen and (min-width: 650px) {
+  .nav li {
+    width: 130px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+    display: inline-block;
+    margin-right: -4px;
+  }
+
+  .nav a {
+    border-bottom: none;
+  }
+
+  .nav > ul > li {
+    text-align: center;
+  }
+
+  .nav > ul > li > a {
+    padding-left: 0;
+  }
+
+  /* Sub Menus */
+  .nav li ul {
+    position: absolute;
+    display: none;
+    width: inherit;
+  }
+
+  .nav li:hover ul {
+    display: block;
+  }
+
+  .nav li ul li {
+    display: block;
+  }
+}
+	   </style>
 	</header>

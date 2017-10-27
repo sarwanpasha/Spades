@@ -7,7 +7,7 @@
    			<h3>Contact</h3>
    			<h1>Get In Touch.</h1>
 
-   			<p class="lead">Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
+   			<p class="lead">You can get in touch using the following methods</p>
    		</div> 
    	</div> <!-- end section-intro -->
 
@@ -73,26 +73,29 @@
          	<div class="cinfo">
 	   			<h6>Where to Find Us</h6>
 	   			<p>
-	            	1600 Amphitheatre Parkway<br>
-	            	Mountain View, CA<br>
-	            	94043 US
+	            	LUMS, Sector U, DHA<br>
+	            	Lahore, Punjab<br>
+	            	53700 PK
 	            </p>
 	   		</div> <!-- end cinfo -->
 
 	   		<div class="cinfo">
 	   			<h6>Email Us At</h6>
 	   			<p>
-	   				someone@infinitysite.com<br>
-				   	info@infinitysite.com			     
+	   				spades@lums.edu.pk<br>
+				   			     
 				   </p>
 	   		</div> <!-- end cinfo -->
 
 	   		<div class="cinfo">
 	   			<h6>Call Us At</h6>
 	   			<p>
-	   				Phone: (+63) 555 1212<br>
-				   	Mobile: (+63) 555 0100<br>
-				     	Fax: (+63) 555 0101
+	   				Registrations: <br>
+             Saad Rashid:   0311-4338777<br>
+              Ahsan Atta:   0335-4400140<br>
+              IT: <br>
+            Dilawer Ahmed:  0323-4443331<br>
+				     	
 				   </p>
 	   		</div>
 

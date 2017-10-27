@@ -5,9 +5,9 @@
 
 	      	<div class="col-five tab-full footer-about">       
 
-	            <h4 class="h05">Infinity.</h4>
+	            <h4 class="h05">Spades.</h4>
 
-	            <p>Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Proin eget tortor risus.</p>	            
+	            <p></p>	            
 
 		      </div> <!-- end footer-about -->
 
@@ -17,10 +17,7 @@
 
 	      		<ul class="list-links">
 	      			<li><a href="#">Facebook</a></li>
-						<li><a href="#">Twitter</a></li>
-						<li><a href="#">Instagram</a></li>
-						<li><a href="#">Behance</a></li>
-						<li><a href="#">Dribble</a></li>						
+												
 					</ul>
 
 	      	</div> <!-- end footer-social -->  
@@ -29,7 +26,7 @@
 
 	      		<h4 class="h05">Get Notified.</h4>
 
-	      		<p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa.</p>
+	      		<p>Follow us on Facebook or type your email to stay notified</p>
 
 	      		<div class="subscribe-form">
 	      	
@@ -58,8 +55,8 @@
 
       		<div class="col-twelve">
 	      		<div class="copyright">
-		         	<span>© Copyright Infinity 2016.</span> 
-		         	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
+		         	<span>© Copyright Spades 2017-2018.</span> 
+		         	<span>Design by Spades IT Team</span>		         	
 		         </div>		               
 	      	</div>
 

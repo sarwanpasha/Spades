@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/E:/xampp/htdocs/spades/admin_panel/login_form/process/process_logout.php</file>
+            <file>file:/E:/xampp/htdocs/spades/admin_panel/login_form/index.php</file>
+            <file>file:/E:/xampp/htdocs/spades/admin_panel/administration.php</file>
+            <file>file:/E:/xampp/htdocs/spades/registration/functions/registration_functions.php</file>
+            <file>file:/E:/xampp/htdocs/spades/admin_panel/view_team_members.php</file>
+            <file>file:/E:/xampp/htdocs/spades/models/user.php</file>
+            <file>file:/E:/xampp/htdocs/spades/registration/register_events.php</file>
+            <file>file:/E:/xampp/htdocs/spades/registration/registration_form.php</file>
+            <file>file:/E:/xampp/htdocs/spades/admin_panel/login_form/process/process_login.php</file>
+        </group>
     </open-files>
 </project-private>
