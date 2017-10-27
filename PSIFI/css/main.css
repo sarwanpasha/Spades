@@ -102,7 +102,8 @@ h2 {
 }
 
 .navbar-brand {
-  background-color: #8c1919;
+  background-color: #400606;
+  opacity: .9;
   height: 90px;
   margin-bottom: 20px;
   position: relative;
@@ -115,14 +116,14 @@ h2 {
 }
 
 .navbar-right {
-  background-color: #8c1919;
+  background-color: #400606;
   padding:0 95px 0 0;
-  opacity: .9
+  opacity: .9;
 }
 
 .navbar-right li a {
   padding: 35px 21px;
-  font-size: 22px;
+  font-size: 18px;
   color: #fff;
   text-transform: uppercase;
   font-family: 'Yanone Kaffeesatz', 'sans-serif';
@@ -133,12 +134,12 @@ h2 {
 .navbar-right li a:focus,  
 .navbar-right .active a {
   background-color: #fff;
-  color: #16728f
+  color: #400606
 }
 
 
 .fixed-menu {
-  background-color: #8c1919;
+  background-color:#400606;
   position: fixed;
   top: 0;
 }
@@ -240,8 +241,8 @@ h2 {
 
 #main-slider 
 .carousel-indicators li {
-  background-color:#1B7B98;
-  border: 1px solid #1B7B98;
+  background-color: #7d2222;
+  border: 1px solid #7d2222;
 }
 
 #main-slider 
@@ -392,14 +393,14 @@ h2 {
 **************************/
 
 #explore {
-  background-color: #C34C39;
+  background-color: #fefefe;
   background-image: url("../images/event-bg.jpg");
   background-position: center bottom;
   background-size: contain;
   background-repeat:no-repeat;
   position: relative;
   overflow: hidden;
-  padding: 130px 0 100px;
+  padding: 60px 0 100px;
 }
 
 .watch {
@@ -529,8 +530,7 @@ h2 {
 *******Event CSS******
 **************************/
 #event {
-  background-color: #33888F;
-  background-image: url("../images/performar-bg.jpg");
+  background-color: #2d0601;
   background-position: 50% 0;
   background-size: contain;
   position: relative;
@@ -598,8 +598,8 @@ h2 {
 *******Event2 CSS******
 **************************/
 #event2 {
-  background-color: #33888F;
-  background-image: url("../images/performar-bg.jpg");
+  background-color: #2d0601;
+  
   background-position: 50% 0;
   background-size: contain;
   position: center;
@@ -664,7 +664,7 @@ h2 {
 **************************/
 
 #about {
-  background-color: #75B46E;  
+  background-color: #eae3ba;  
   position: relative;  
   width: 100%;
   display: flex;

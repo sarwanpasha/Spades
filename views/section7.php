@@ -82,7 +82,7 @@
 	   		<div class="cinfo">
 	   			<h6>Email Us At</h6>
 	   			<p>
-	   				spades@lums.edu.pk<br>
+	   				reg.psifi@gmail.com<br>
 				   			     
 				   </p>
 	   		</div> <!-- end cinfo -->

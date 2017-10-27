@@ -6,7 +6,7 @@
 
 <div class="nav">
       <ul>
-        <li class="home"><a href="#">Home</a></li>
+        
         <li class="tutorials"><a href="#about">About Us</a></li>
         <li class="about"><a href="#services">Events</a></li>
         <li class="contact"><a href="PSIFI/index.html">PSIFI</a>
@@ -21,7 +21,7 @@
             <li><a href="PSIFI/pdf/registration_guidelines.pdf" target="_blank">Registration Details</a></li>
             
             
-            <li><a href="PSIFI/pdf/evalform.pdf" target="_blank">Evaluation Form</a> </li>
+            <li><a href="PSIFI/pdf/eval1.docx" target="_blank">Evaluation Form</a> </li>
             
         </ul>
         <li class="contact"><a href="#contact">Contact Us</a></li>
