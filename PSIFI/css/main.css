@@ -102,7 +102,7 @@ h2 {
 }
 
 .navbar-brand {
-  background-color: #1B7B98;
+  background-color: #8c1919;
   height: 90px;
   margin-bottom: 20px;
   position: relative;
@@ -115,7 +115,7 @@ h2 {
 }
 
 .navbar-right {
-  background-color: #1B7B98;
+  background-color: #8c1919;
   padding:0 95px 0 0;
   opacity: .9
 }
@@ -138,7 +138,7 @@ h2 {
 
 
 .fixed-menu {
-  background-color: #1B7B98;
+  background-color: #8c1919;
   position: fixed;
   top: 0;
 }

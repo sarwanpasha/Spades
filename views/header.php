@@ -19,12 +19,11 @@
         <li class="contact"><a href="PSIFI/index.html">PSIFI Registration</a>
                 <ul>
             <li><a href="PSIFI/pdf/registration_guidelines.pdf" target="_blank">Registration Details</a></li>
-            <li><a href="PSIFI/pdf/waiver.pdf" target="_blank">Waiver of Liability</a></li>
-            <li><a href="PSIFI/pdf/payment.pdf" target="_blank">Payment Calculation</a></li>
-            <li><a href="PSIFI/pdf/evalform.pdf" target="_blank">Evaluation Form</a></li>
-            <li><a href="PSIFI/pdf/institute.pdf" target="_blank">Institute Consent</a></li>
-          </ul>
-        </li>
+            
+            
+            <li><a href="PSIFI/pdf/evalform.pdf" target="_blank">Evaluation Form</a> </li>
+            
+        </ul>
         <li class="contact"><a href="#contact">Contact Us</a></li>
       </ul>
     </div>

@@ -14,8 +14,13 @@
 				  			</h1>	
 
 				  			<div class="more animate-intro">
-                                                            <a href="https://www.cognitoforms.com/SPADES2/PsiFiIXRegistration" target="_blank" class="button stroke">
-				  					Register Now!
+                                                            <a href="form.html" class="button stroke">
+				  					Register for Psifi
+				  				</a>
+				  			</div>	
+				  			<div class="more animate-intro">
+                                                            <a href="faculty.html" class="button stroke">
+				  					Faculty Advisor Registration
 				  				</a>
 				  			</div>							
 
